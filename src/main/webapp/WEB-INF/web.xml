@@ -14,7 +14,7 @@
     <servlet-class>net.balusc.webapp.FileServlet</servlet-class>
 	    <init-param>
 	        <param-name>basePath</param-name>
-	        <param-value>/var/lib/openshift/574a872d2d52715f440001c6/jbossews</param-value>
+	        <param-value>/var/lib/openshift/576969c30c1e666b4c000046/jbossews</param-value>
 	    </init-param>
 	</servlet>
 
